@@ -1,2 +1,3 @@
-# getplaced-landing
-Landing page for getPlaced Inc.
+# landing-page
+
+Landing Page for getPlaced Inc
